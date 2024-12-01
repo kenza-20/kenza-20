@@ -9,7 +9,7 @@
   I thrive on problem-solving, learning new skills, and turning ideas into impactful projects. Let’s connect and collaborate to build something extraordinary! 💻✨
 </h3>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" style="width: 65%; display: inline-block;" data-target="animated-image.originalImage">
 
 ### 🛠️ Languages and Tools:
 <p align="left" dir="auto" style= "max-width:50%">
@@ -66,6 +66,6 @@
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react" width="55%" />
 </a>
 
