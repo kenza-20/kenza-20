@@ -1,17 +1,17 @@
 # 👋 Hi there!
 <div align="center">
-  <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221222184908/web-development1.png" alt="Illustration" width="1500">
+  <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221222184908/web-development1.png" alt="Illustration" width="800">
 </div>
-
+---
 <div align="center">
-  <strong>
-    As a computer engineering student at ESPRIT specializing in web development, I am passionate about creating innovative solutions through coding and technology. I thrive on problem-solving, learning new skills, and turning ideas into impactful projects. Let’s connect and collaborate to build something extraordinary! 💻✨
-  </strong>
+   <p></p> As a computer engineering student at ESPRIT specializing in web development, I am passionate about creating innovative solutions through coding and technology.
+  I thrive on problem-solving, learning new skills, and turning ideas into impactful projects. Let’s connect and collaborate to build something extraordinary! 💻✨
+</p>
 </div>
-
+---
 ### 🛠️ Languages and Tools:
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,python,java,javascript,php,symfony,angular,flutter" alt="Languages and Tools">
   </a>
