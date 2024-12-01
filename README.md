@@ -43,9 +43,6 @@
   <a href="https://www.oracle.com/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="max-width: 100%;">
   </a>
-  <a href="https://www.photoshop.com/en" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="max-width: 100%;">
-  </a>
   <a href="https://www.php.net" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;">
   </a>
